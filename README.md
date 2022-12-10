@@ -1,5 +1,6 @@
 # List of things to learn
-- vim
-- python
-- markdown
-- regular expressions
+- Python
+- Chrome Shortcuts
+- Vim
+- Markdown
+- Regular expressions
